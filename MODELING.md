@@ -8,10 +8,10 @@
 
 Briefly describe each collection (1–2 sentences each):
 
-- **users** —
-- **projects** —
-- **tasks** —
-- **notes** —
+- **users** — user create projects
+- **projects** —projects have tasks 
+- **tasks** —taks have notes 
+- **notes** —notes can be optional
 
 ---
 
